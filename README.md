@@ -5,4 +5,5 @@ La aplicacion debe cumplir con tres objetivos principales
 3.Mostrar el numero de transacciones totales en el archivo 
 ----------------------------------------------------------------
 El proyecto consta de 2 archivos un archivo CSV de donde se toman los datos y un archivo py donde se realiza las funciones para la dar la solución del problema. 
-hay que destacar que esto puede ser punto de partida para hacer un libro diario o una pequeña app de control de ingresos y egresos. 
+hay que destacar que esto puede ser punto de partida para hacer un libro diario o una pequeña app de control de ingresos y egresos.
+
