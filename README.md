@@ -21,6 +21,16 @@ luego de instalar vamos al terminal de lineas de comandos, nos situamos en el di
 
 y nos va a imprimir en pantalla lo siguiente 
 
+===== REPORTE DE TRANSACCIONES BANCARIAS =====
+Balance Final: $10985.85
+Transacción de Mayor Monto: ID 222 con $499.69
+
+Conteo de Transacciones:
+  - Créditos: 508
+  - Débitos: 492
+  - Total: 1000
+
+
 
 ## Enfoque y Solución: Lógica implementada y decisiones de diseño.
 ## Estructura del Proyecto: 
